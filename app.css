@@ -1,0 +1,859 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    font-family: montserrat, sans-serif;
+    transition: all 0.93ms ease;
+    
+}
+    
+#topdiv {
+    background-color:rgb(147, 2, 2);
+     height: 4.1rem; 
+     font-family: montserrat, sans-serif; 
+     color: whitesmoke;
+     position: relative;
+     
+    
+}
+
+#email1{
+    position: relative;
+    left: 105px;
+    top: 15px;
+}
+
+
+.topnav{
+    background-color: whitesmoke;
+    overflow: hidden;
+    height: 5rem;
+    position: relative;
+    top: -1.188rem;
+}
+
+.topnav a{
+    float: left;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 8px;
+    margin-right: 4px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 14px;
+    position: relative;
+    left: 330px;
+    height: 3rem;
+    color: grey;
+}
+#home{
+    color: rgb(137, 0, 0);
+}
+
+#topheader {
+  font-size:53px;  
+  text-align: center;
+  font-family: "roboto slab", serif;
+  font-weight: 500;
+  margin-bottom: 10px;
+  position: relative;
+  top: 124px;
+  font-weight: bolder;
+  left: px;
+}
+
+#firstpara{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 130px;
+    font-size: 20px;
+    left: 40px;
+    font-weight: initial;
+   
+}
+
+#secondpara{
+    position: relative;
+    left: 395px;
+    font-size: 20px;
+    font-weight: initial;
+}
+
+#rb{
+    width: 202px;
+    height: 43px;
+    background-color: rgb(137, 0, 0);
+    display: flex;
+    justify-content: center;
+    border: white 1px solid;
+    position: relative;
+    left: 455px;
+    top: 180px;
+    
+}
+
+#tt{
+    padding-top: 9px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    
+    
+}
+
+#gc{
+    height: 45px;
+    width: 158px;
+    border: white 1px solid;
+    display: flex;
+    justify-content: center;
+    padding-top: 9px;
+    font-size: 17px;
+    position: relative;
+    left: 670px;
+    top: 137px;
+    
+}
+
+#ttt{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+#getin{
+    width: 138px;
+    height: 38px;
+ display: inline-block;   
+ line-height: 1;
+ color: beige;
+ background-color: #8b2323;
+ margin-top: 10px;
+ margin-bottom: 50%;
+ padding: 5px 7px;
+ border-radius: 3px;
+ position: relative;
+ right: 30px;
+ margin-left: 82px;
+ text-align: center;
+ font-size: 15px;
+ top: 10px;
+ border: #FFFFFF solid 1px;
+ padding-top: 10px;
+
+
+}
+
+#toplogo{
+    position: relative;
+    left: -800px ;
+    top: 5px;
+
+}
+
+div p{
+    position: relative;
+    left: 5rem;
+    top: 148px;
+} 
+
+.handshake{
+    background-image: url(hands.jpg);
+  background-size: cover;
+  background-position-y: -220px;
+  height: 481px;
+  font-weight: 500;
+  margin: 0px;
+  border-bottom: 5.5px solid rgb(147, 2, 2);
+  color: rgb(244, 244, 244);
+  position: relative;
+  bottom: 20px;
+}
+
+#firsthalf{
+    height: 448px;
+    width: 1349;
+    background-color: rgb(234, 233, 233);
+    position: relative;
+    bottom: 20px;
+}
+
+img{
+    position: relative;
+    left: 700px;
+    top: 70px;
+}
+
+#bs{
+    position: relative;
+    bottom: 310px;
+    left: 142px;
+    font-size: 47px;
+    color: rgb(146,2,2);
+}
+
+#abtbs{
+    height: 95px;
+    width: 600px;
+    position: relative;
+    bottom: 440px;
+    left: 65px;
+    font-size: 17px
+}
+
+#under{
+    height: 151px;
+    width: 506px;
+    background-color: rgb(246, 242, 242);
+    position: relative;
+    bottom: 240px;
+    left: 140px;
+}
+
+#mainmi{
+    margin-bottom: 31px;
+    color: rgb(137, 0, 0);
+    font-size: 18px;
+    
+}
+
+#under #mission{
+    position: relative;
+    bottom: 135px;
+    right: 70px;
+    font-size: 16px;
+   
+}
+
+#vi{
+    margin-bottom: 31px;
+    color: rgb(137, 0, 0);
+    font-size: 18px;
+    
+}
+
+#under #vision{
+    position: relative;
+    bottom: 240px;
+    right: -180px;
+    font-size: 16px;
+    
+}
+
+
+#pract{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    position: relative;
+    top: 50px;
+    color: rgb(146,2,2);
+
+}
+
+
+
+#cr{
+    height: 322px;
+    width: 358px;
+    background-color: rgb(240, 240, 240);
+    position: relative;
+    left: 115px;
+    top: 80px;
+    
+    
+}
+
+#ldr{
+    
+    height: 322px;
+    width: 358px;
+    background-color: rgb(240, 240, 240);
+    position: relative;
+    left: 500px;
+    bottom: 242px;
+}
+
+#AML{
+    height: 322px;
+    width: 358px;
+    background-color: rgb(240, 240, 240);
+    position: relative;
+    bottom: 564px;
+    left: 883px;
+}
+
+#energy{
+    height: 322px;
+    width: 358px;
+    background-color: rgb(240, 240, 240);
+    position: relative;
+    bottom: 536px;
+    left: 115px;
+}
+
+#realestate{
+    height: 322px;
+    width: 358px;
+    background-color: rgb(240, 240, 240);
+    position: relative;
+    bottom: 858px;
+    left: 500px;
+}
+
+#corporate{
+    height: 322px;
+    width: 358px;
+    background-color: rgb(240, 240, 240);
+    position: relative;
+    bottom: 1180px;
+    left: 883px;
+}
+
+#button{
+    height: 40px;
+    width: 245px;
+    background-color: rgb(146,2,2);
+    border: whitesmoke;
+    border-radius: 1px;
+    position: relative;
+    left: 560px;
+    bottom: 1138px;
+}
+
+.sect:hover{
+    border-bottom: 5px solid rgb(146,2,2);
+    
+   
+}
+
+#line1{
+  border: 1px thin rgb(146,2,2);
+  position: relative;
+  bottom: 1120px;
+  color:red;
+}
+
+#line2{
+    border: 1px thin rgb(146,2,2);
+    position: relative;
+    bottom: 1119.5px;
+    color: red;
+  }
+
+  .button{
+      display: flex;
+      font-size: 16px;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      background-color: rgb(137, 0, 0);
+      border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 5em 5em 5em 5em rgb(200 150 150 / 10%);
+      /* box-shadow: 0 0.5em 0.5em -0.4em rgb(196,196,196);
+     border: 1px solid whitesmoke; */
+     
+    }
+
+    #middlehalf{
+        background-color: rgb(255, 255, 255);
+    }
+
+    #ourpublications{
+        
+        font-size: 35px;
+        font-weight: bold;
+        position: relative;
+        bottom: 1030px;
+        left: 550px;
+        color: rgb(146,2,2);
+    }
+
+    #prior{
+        height: 354px;
+        width: 353px;
+        background-color: rgb(36, 34, 34);
+        position: relative;
+        bottom: 980px;
+        left: 125px;
+    }
+
+    #evolve{
+        height: 354px;
+        width: 353px;
+        background-color: rgb(87, 5, 5);
+        position: relative;
+        bottom: 1334px;
+        left: 498px;
+    }
+
+    #dont{
+        height: 354px;
+        width: 353px;
+        background-color: rgb(36, 34, 34);
+        position: relative;
+        bottom: 1688px;
+        left: 871px;
+    }
+    
+    #viewmore{
+        height: 70px;
+        width: 270px;
+    }
+
+    #vb{
+        width: 237px;
+        height: 40px;
+        background-color: rgb(137, 0, 0);
+        position: relative;
+        bottom: 1707px;
+        left: 560px;
+        
+    }
+
+    #vb a{
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+        font-size: 20px;
+        color: whitesmoke;
+        padding-top: 8px;
+    }
+
+    #register{
+        width: 1349px;
+        height: 303px;
+        background-color: rgb(133, 49,61);
+       position: relative;
+       bottom: 1630px;
+    }
+
+    #register #regedit{
+        color: white;
+        font-size: 24px;
+        position: relative;
+        top: 15%;
+        left: 500px; 
+    
+    }
+
+    #register #regedit2{
+        color: white;
+        font-size: 18px;
+        position: relative;
+        top: 26%;
+        left: 480px; 
+
+    }
+
+    .form{
+        width: 254px;
+        height: 45px;
+        border-radius: 4px; 
+        position: relative;
+        top: 100px;
+        left: 190px;
+        margin-right: 5px;
+        border: grey;
+    }
+
+    #submit{
+        width: 257px;
+        height: 47px;
+        border-radius: 4px;
+        color: whitesmoke;
+        position: relative;
+        top: 100px;
+        left: 190px;
+        background-color: rgb(146, 2, 2);
+        border: none;
+        
+
+    }
+
+    #request{
+        height: 119px;
+        width: 1349px;
+        background-color: rgb(147, 2, 2); 
+        position: relative;
+        top: 190px;
+        display: flex;
+        align-items: center;
+        color: white;
+        
+          
+    }
+
+    #request #big {
+        font-size: 35px;
+        margin-left: 150px;
+    }
+
+    footer{
+
+        width: 1349px;
+        height: 606px;
+        background-color:rgb(0,28,56); 
+        position: relative;
+        top: 190px;
+        text-decoration: none;
+        
+        
+    }
+
+    #gicbutton{
+        width: 162px;
+        height: 40px;
+        border: white 1px solid;
+        margin-left: 145px;
+        display: flex;
+        justify-content: center;
+        padding-top: 8px;
+    
+    }
+    
+    #gic{
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+    }    
+
+    #footerlogo{
+        height: 93px;
+        width: 103px;
+        
+        
+
+    }
+
+    #footer1{
+        width: 271px;
+        height: 165px;
+        
+    }
+
+    #footerimg{
+        position: relative;
+        right: 583px;
+    }
+
+    #footer2{
+        margin-top: -55px;
+        font-weight: initial;
+    }
+    
+
+    footer #footer2{
+        position: relative;
+        left: 115px;
+        font-size: 17px;
+        color: whitesmoke;
+
+    }
+
+    #firm{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+        color: white;
+        
+    }
+
+    .link{
+        margin-bottom: 10px;
+        position: relative;
+        bottom: 40px;
+        left: 495px;
+        text-decoration: none;
+        font-size: 17px;
+        color: #FFFFFF;
+    }
+
+    #firmhead{
+        position: relative;
+        left: 495px;
+        bottom: 95px;
+    }
+  
+#practiceareasfooter{
+    display: flex;
+    flex-direction: column;
+}
+
+.link2{
+    width: 260px;
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 200px;
+    left: 681px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #FFFFFF;
+    border-bottom: dotted white 1px;
+}
+
+#precthead{
+    position: relative;
+    left: 681px;
+    bottom: 257px;
+    font-size: 18px;
+    color: white;
+}
+
+#address{
+    color: white;
+    position: relative;
+    bottom: 400px;
+    font-size: 16px;
+}
+
+
+
+#location{
+    height: 40px;
+    position: relative;
+    left: 1022px;
+    top: -144px;
+    opacity: 1;
+}
+
+#www{
+    position: relative;
+    left: 980px;
+    bottom: 325px;
+    font-size: 16px;
+}
+
+#bottomform{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 850px;
+    bottom: 610px;
+}
+
+#lowform{
+    margin-bottom: 7px;
+    height: 41px;
+    width: 212px;
+}
+
+#bottomform #submit{
+    
+    margin-bottom: 7px;
+    height: 41px;
+    width: 212px;
+}
+
+#compliance{
+    text-align: center;
+}
+
+#mini{
+    position: relative;
+    right: 80px;
+    font-size: 13px;
+    
+}
+
+#compliance h3{
+    position: relative;
+    top: 130px; 
+    font-size: 17px;
+}
+
+#middlehalf .sect:hover   {
+    height: 324px;
+
+}
+
+#priormini{
+    color: #FFFFFF;
+    font-size: 18px;
+    position: relative;
+    bottom: 35px;
+    right: 30px;
+}
+
+#priormini2{
+    color: #FFFFFF;
+    font-size: 18px;
+    position: relative;
+    bottom: 12px;
+    right: 27px;
+}
+
+#priormini3 {
+    color: #FFFFFF;
+    font-size: 18px;
+    position: relative;
+    bottom: 31px;
+    right: 27px;
+}
+
+
+#address h3{
+    position: relative;
+    left: 1030px;
+    bottom: 197px;
+    font-size: 18px;
+}
+
+
+  #fb{
+      color: white;
+      position: relative;
+      left: 1070px;
+      bottom: 5px;
+      font-size: 17px;
+  }
+
+    #in{
+        color: white;
+      position: relative;
+      left: 1095px;
+      bottom: 5px;
+      font-size: 17px;
+    }
+
+    #twi{
+        color: white;
+      position: relative;
+      left: 1122px;
+      bottom: 5px;
+      font-size: 17px;
+    }
+
+    #ig{
+      color: white;
+      position: relative;
+      left: 1149px;
+      bottom: 5px;
+      font-size: 17px;
+    }
+
+    #info{
+        position: relative;
+        right: -5px;
+        top: 165px;
+        margin-left: -30px;
+    }
+
+    #omo{
+        position: relative;
+        top: 40px;
+        font-size: 17px;
+        margin-bottom: 4px;
+        right: 20px;
+    }
+
+    #comp{
+        position: relative;
+        top: 115px;
+        z-index: 2;
+        right: 440px;
+
+    }
+
+    #second{
+        position: relative;
+        right: 70px;
+       /* visibility: hidden;} */}
+    
+    
+
+    #lii #lockedin{
+    position: relative;
+    left: 565px;
+    top: 188px;
+    z-index: 2;
+    }
+
+    a{
+        text-decoration: none;
+        color: #8b2323;
+    }
+
+    #lockedina{
+    position: relative;
+    left: 870px;
+    z-index: 2;
+    top: 185px;
+    }
+
+    #lockedini{
+    position: relative;
+    left: 35px;
+    z-index: 2;
+    top: 540px;
+    }
+
+    #lockedinit{
+    position: relative;
+    left: 340px;
+    top: 540px;
+    z-index: 2;
+
+    }
+
+    #lockediniti{
+    position: relative;
+    left: 650px;
+    top: 540px;
+    z-index: 2;
+    }
+
+    a:hover{
+        color: #8b2323;
+    }
+
+    #finale{
+        width: 1349px;
+        height: 50px;
+        background-color: rgb(137, 0, 0);
+        z-index: 2;
+        position: relative;
+        top: 185px;
+        display: flex;
+        align-items: center;
+        color: white;
+        font-size: 13px;
+        
+    }
+
+    #finale span{
+        margin-left: 155px;
+    }
+
+    #finale #credit{
+        margin-left: 670px;
+    }
+
+    #roof{
+        color: white;
+    }
+
+    #scroll{
+        height: 40px;
+        width: 40px;
+        opacity: 0.5;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        padding-top: 10px;
+        background-color: black;
+        position: absolute;
+        left: 1289px;
+        top: 950px;
+        scroll-behavior: smooth;
+    }
+
+    #button{
+        cursor: pointer;
+    }
